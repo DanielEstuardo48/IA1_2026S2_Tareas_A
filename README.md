@@ -11,4 +11,4 @@
 ## Indice de Tareas
 | Tarea | Descripción Breve | Tecnologías | Enlace al Manual |
 | :--- | :--- | :--- | :---: |
-| **Tarea 2** | Motor de inferencia en Prolog integrado a API REST en Python y Frontend Web para gestión de inventario de videojuego. | Prolog, Python con Flask, PySwip, JS, HTML | [Ver Manual](./Tarea2/Readme.md) |
+| **Tarea 2** | Motor de inferencia en Prolog integrado a API REST en Python y Frontend Web para gestión de inventario de videojuego. | Prolog, Python con Flask, PySwip, JS, HTML | [Ver Manual](./Tarea2/Manual.md) |
